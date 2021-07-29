@@ -1,0 +1,12 @@
+C:\Users\JorgePC\Desktop\Istea\Estructura_De_Datos\DungeonsAndDragon\bin\Debug\netcoreapp3.1\DungeonsAndDragon.exe
+C:\Users\JorgePC\Desktop\Istea\Estructura_De_Datos\DungeonsAndDragon\bin\Debug\netcoreapp3.1\DungeonsAndDragon.deps.json
+C:\Users\JorgePC\Desktop\Istea\Estructura_De_Datos\DungeonsAndDragon\bin\Debug\netcoreapp3.1\DungeonsAndDragon.runtimeconfig.json
+C:\Users\JorgePC\Desktop\Istea\Estructura_De_Datos\DungeonsAndDragon\bin\Debug\netcoreapp3.1\DungeonsAndDragon.runtimeconfig.dev.json
+C:\Users\JorgePC\Desktop\Istea\Estructura_De_Datos\DungeonsAndDragon\bin\Debug\netcoreapp3.1\DungeonsAndDragon.dll
+C:\Users\JorgePC\Desktop\Istea\Estructura_De_Datos\DungeonsAndDragon\bin\Debug\netcoreapp3.1\DungeonsAndDragon.pdb
+C:\Users\JorgePC\Desktop\Istea\Estructura_De_Datos\DungeonsAndDragon\obj\Debug\netcoreapp3.1\DungeonsAndDragon.AssemblyInfoInputs.cache
+C:\Users\JorgePC\Desktop\Istea\Estructura_De_Datos\DungeonsAndDragon\obj\Debug\netcoreapp3.1\DungeonsAndDragon.AssemblyInfo.cs
+C:\Users\JorgePC\Desktop\Istea\Estructura_De_Datos\DungeonsAndDragon\obj\Debug\netcoreapp3.1\DungeonsAndDragon.csproj.CoreCompileInputs.cache
+C:\Users\JorgePC\Desktop\Istea\Estructura_De_Datos\DungeonsAndDragon\obj\Debug\netcoreapp3.1\DungeonsAndDragon.dll
+C:\Users\JorgePC\Desktop\Istea\Estructura_De_Datos\DungeonsAndDragon\obj\Debug\netcoreapp3.1\DungeonsAndDragon.pdb
+C:\Users\JorgePC\Desktop\Istea\Estructura_De_Datos\DungeonsAndDragon\obj\Debug\netcoreapp3.1\DungeonsAndDragon.genruntimeconfig.cache
